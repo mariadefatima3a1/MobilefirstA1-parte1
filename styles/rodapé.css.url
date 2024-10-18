@@ -1,2 +1,8 @@
-[InternetShortcut]
-URL=https://github.com/giullianacestari/alura-books/blob/aula12/styles/rodap%C3%A9.css
+hr {
+    margin: 0;
+}
+
+.rodapé {
+    background-color: var(--branco);
+    padding: 1em;
+}
